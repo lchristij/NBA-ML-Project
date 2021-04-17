@@ -10,12 +10,19 @@ The objective of this project is to predict the winning and losing team of upcom
 ## Potential Data sets:
 
 •	https://www.masseyratings.com/nba
+
 •	https://www.kaggle.com/koki25ando/salary
+
 •	https://www.kaggle.com/whitefero/nba-player-salary-19902017
+
 •	https://data.world/datadavis/nba-salaries
+
 •	https://rstudio-pubs-static.s3.amazonaws.com/369734_20ddb138d1af4b488b3a978ee055ec24.html
+
 •	https://www.teamrankings.com/nba/player-stats/
+
 •	https://www.teamrankings.com/nba/player/bradley-beal/stats
+
 •	https://www.eskimo.com/~pbender/ 
 
 
@@ -40,7 +47,3 @@ b.	Avg. steals
 3.	Win streak
 4.	Home vs. away games
 5.	Team rating
-
-
-
-
