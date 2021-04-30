@@ -4,40 +4,27 @@ The objective of this project is to predict the winning and losing team of upcom
 
 ## Primary Data sets:
 
-1.	https://www.nbastuffer.com/2020-2021-nba-player-stats/ 
-2.	https://rapidapi.com/theapiguy/api/free-nba?endpoint=apiendpoint_0c94f219-1d0f-4fc1-8bbb-c5ee6b8327cc
-
-## Potential Data sets:
-
-•	https://www.masseyratings.com/nba
-
-•	https://www.kaggle.com/koki25ando/salary
-
-•	https://www.kaggle.com/whitefero/nba-player-salary-19902017
-
-•	https://data.world/datadavis/nba-salaries
-
-•	https://rstudio-pubs-static.s3.amazonaws.com/369734_20ddb138d1af4b488b3a978ee055ec24.html
-
-•	https://www.teamrankings.com/nba/player-stats/
-
-•	https://www.teamrankings.com/nba/player/bradley-beal/stats
-
-•	https://www.eskimo.com/~pbender/ 
+1.	https://www.nbastuffer.com/2020-2021-nba-player-stats/
 
 
-## Prospective Technics:
-1.	Train a tree based supervised regression learning model utilizing confusion matrix & classification report to measure accuracy, precision and recall
-2.	Train an AdaBoost model (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)
 
-## Targeted Libraries:
+
+## Goals:
+1.	Train a Random Forest supervised regression learning model to measure accuracy, precision and recall
+
+2.	Train a 2 and 3 layer LSTM RNN Neural Network unsupervised learning model to measure accuracy, precision and recall
+
+3. Analyze and compare the models to determine which is most effective.
+
+
+## Libraries:
 1.	Python3
 2.	Numpy
 3.	Pandas
 4.	Sklearn.tree
 
-## Targeted Key Features:
-1.	Offensive Player Ranking Criteria
+## Selected Features:
+1.	Field Goal Percentage
 a.	Avg. PPG
 b.	avg. assist
 c.	avg. Min per game
